@@ -1,5 +1,6 @@
 Magic Fridge
-(https://via.placeholder.com/128/FFC107/000000?text=MF)
+
+
 An Android application designed to help you discover new recipes based on the ingredients you have on hand. Built with a modern, multi-module Clean Architecture approach.
 Table of Contents
 Features
@@ -17,6 +18,7 @@ Magic Fridge provides a simple and intuitive way to find cooking inspiration.
 📖 Detailed Recipe View: Access complete recipe details, including a list of ingredients with measurements and step-by-step instructions.
 ❤️ Favorites & Offline Access: Save your favorite recipes for later. All saved recipes are stored locally on your device and are available even without an internet connection.
 📱 Modern, Responsive UI: A clean and simple user interface built entirely with Jetpack Compose.
+
 
 
 Tech Stack & Architecture
